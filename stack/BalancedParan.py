@@ -30,3 +30,14 @@ while j < n:
         print("not balanced")
 
     j = j + 1
+
+
+'''output
+3
+{([])}
+()
+()[]
+balanced
+balanced
+balanced
+'''
